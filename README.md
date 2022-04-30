@@ -1,6 +1,6 @@
 # MJV_school
 <p align="center">
-<img src="![mjv_blogpost_infografico_academy](https://user-images.githubusercontent.com/87781463/166111962-f4414df9-9d43-454a-a623-3ce73e5e12eb.jpg)"/>
+<img src="https://user-images.githubusercontent.com/87781463/166111962-f4414df9-9d43-454a-a623-3ce73e5e12eb.jpg"/>
 </p>
 
 # Status
